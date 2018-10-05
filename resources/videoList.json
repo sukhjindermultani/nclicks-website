@@ -1,0 +1,40 @@
+{
+    "data": [
+		{
+            "videoSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/property_moose.mp4",
+            "videoThumbnailSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/property_moose.png"
+        },
+		{
+            "videoSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/innovlearn.mp4",
+            "videoThumbnailSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/innovlearn.png"
+        },
+		{
+            "videoSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/kinetex.mp4",
+            "videoThumbnailSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/kinetex.png"
+        },
+		{
+            "videoSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/odb.mp4",
+            "videoThumbnailSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/odb.png"
+        },
+		{
+            "videoSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/cvc_composition.mp4",
+            "videoThumbnailSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/cvc_composition.png"
+        },
+		{
+            "videoSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/navratna.mp4",
+            "videoThumbnailSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/navratna.png"
+        },
+		{
+            "videoSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/scene_1.mp4",
+            "videoThumbnailSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/scene_1.png"
+        },
+		{
+            "videoSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/scene_2.mp4",
+            "videoThumbnailSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/scene_2.png"
+        },
+		{
+            "videoSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/scene_3.mp4",
+            "videoThumbnailSource": "https://ambientetechnologies.s3.amazonaws.com/nclicks/scene_3.png"
+        }		
+    ]
+}

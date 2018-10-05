@@ -1,0 +1,240 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0; /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#4096ee+0,4096ee+100;Blue+Flat+%232 */
+font-family:Haymaker;
+    src:url(Haymaker/Haymaker.ttf);
+    font-weight: bold;
+}
+ul {margin:0;padding:0;float:left;text-align:left;line-height:23px;font-size:15px;list-style:none;}
+/*@font-face 
+{
+    font-family:Haymaker;
+    src:url(Haymaker/Haymaker.ttf);
+    font-weight: bold;
+}
+*/
+.wrap
+{
+	text-align:center;
+	width:1000px;
+	margin:0 auto;
+
+}
+/**************************************************HEADER*********************************************************/
+
+
+
+/**************************************************CONTENT**********************************************************/
+.content
+{
+	width:1000px;
+	min-height:550px;
+	float:left;
+	margin:-30px 0px 0px 0px;
+	background:#FFF;
+}
+/*****************************************************NEWTONS CLICK**********************************************************/
+
+/**************************************************CIRCLE DIV**********************************************************/
+
+/******************************************************CIRCLE TEXT***********************************************/
+
+
+/*******************************************************MOVIE BOX**************************************************/
+
+/*
+#morebttn_css
+{
+	font-size:16px;
+	color:#FFF;
+	margin:7px 0px 0px 55px;
+	padding:0px;
+	float:left;	
+}*/
+.heading_box
+{
+	margin-left:320px;
+	color:#FFF;
+}
+/*.morebutton
+{
+	width:200px;
+	float:left;
+	font-style:initial;
+	height:40px;
+	background:rgb(1,127,152);
+	border-radius:12px;
+	margin:-15px 0px 0px 400px;
+}*/
+/************************************************************BELLOW HEADING TEXT***********************************/
+.bottomdesign
+{
+	margin:450px 0px 0px 0px;
+	width:1000px;
+	min-height:200px;
+	float:left;
+}
+#line1
+{
+	margin:0px 40px 0px 40px;
+	width:260px;
+	float:left;
+}
+#heading
+{
+	font-size:15px;
+	white-space:nowrap;
+	font-style:!important;
+	color:#576FCA;
+	
+	margin:5px 0px 0px 30px;
+	width:250px;
+	float:left;
+}
+#line2
+{
+	margin:0px 40px 0px 40px;
+	width:260px;
+	float:left;
+}
+#text
+{
+	margin:0px 0px 0px 325px;
+	float:left;
+	color:#000;	
+}
+.requestbutton
+{
+	padding:18px 0px 0px 0px;
+	margin:20px 400px 0px 400px;
+	width:200px;
+	float:left;
+	
+	font-style:initial;
+	height:40px;
+	background:rgb(117,7,15);
+	border-radius:12px;
+}
+#setrequest
+{
+	font-style:initial;
+	margin:3px 0px 0px 20px;
+	color:#FFF;
+}
+.webservices
+{
+	float:left;
+	width:300px;
+	background:#F00;
+	min-height:200px;
+	background:#000;
+	margin:50px 20px 0px 0px;
+}
+.button
+{
+	
+	margin:10px 20px 30px 10px;
+	float:left;
+	width:300px;
+	min-height:300px;
+	background:#06F;
+}
+	
+	
+	
+
+/**************************************************FOOTER*************************************************************/
+.footer
+{
+	min-height:100px;
+	text-align:left;
+	border-top:solid rgb(229,206,207) 10px;
+}
+	#social_icon_pos
+	{
+	float:right;
+	margin:35px 20px 0px 100px;
+	}
+	#social_icon_pos a:hover
+	{
+	opacity:0.2;
+	}
+	#copyright
+	{
+		font-size:16px;
+	}
+	/*******************************************ABOUT US PAGE********************************************************/
+	.content_aboutus
+	{
+	width:1000px;
+	min-height:600px;
+	float:left;
+	margin:-30px 0px 0px 0px;
+		/*background:#CCC;**/
+		background: rgb(237, 28, 36);
+	}
+	.img-circle
+	{
+		border-radius: 150px;
+		-webkit-border-radius: 150px;
+		-moz-border-radius: 150px;
+		width:200px;
+		height:200px;
+		background:no-repeat;
+		text-align:center;
+	}
+	.aboutus_content
+	{
+		width:1000px;
+		min-height:400px;
+		font-size:20px;
+		margin-left:40px;
+		font-family:"League Spartan";
+		
+		
+	}
+	#content_insideaboutus
+	{
+	float: left;
+    width: 685px;
+    text-align: justify;
+    font-size: 25px;
+    height: 250px;
+    font-weight: 500;
+    margin: 21px 1px 0px 200px;
+	}
+	
+	@font-face
+ 	{
+    font-family: 'League Spartan';
+    src: url('_webfonts/leaguespartan-bold.eot');
+    src: url('_webfonts/leaguespartan-bold.eot?#iefix') format('embedded-opentype'),
+         url('_webfonts/leaguespartan-bold.woff2') format('woff2'),
+         url('_webfonts/leaguespartan-bold.woff') format('woff'),
+         url('_webfonts/leaguespartan-bold.ttf') format('truetype'),
+         url('_webfonts/leaguespartan-bold.svg#league_spartanbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+	}
+	
+	
+	a.emailLink {
+		font-size: 22px !important;
+		color: #fff111;
+	}
+	
+	a.emailLink:hover  {
+		text-decoration: underline !important;
+	}
+	
+	.header a:hover {
+		color: #fff111;
+		text-decoration: underline !important;
+	}
+	
+/******************************************************COMMON_CLASSES***********************************************/
+
+
+a.activeMenu:visited {
+	color: #fff111;
+}

@@ -1,0 +1,461 @@
+body{
+	color:#FFFFFF;
+	background-image: url("../../images/website-background.jpg");
+}
+
+.background-theme-primary {
+    background: rgb(117, 7, 15) none repeat scroll 0 0;
+}
+
+.background-theme-secondary {
+    background: rgb(237, 28, 36) none repeat scroll 0 0;
+}
+
+.background-grey{
+    background: rgb(142, 138, 138) none repeat scroll 0 0;
+}
+
+.shadow {
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+}
+
+.hidden-v-scroll{
+	overflow-y:scroll; 
+}
+
+.rounded-div-12
+{
+	border-radius: 12px;	
+}
+
+.circle
+ {
+	float:left;
+	margin:0px 0px 0px 50px;
+	width: 185px;
+	height: 185px;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+	border-radius: 100%;
+	/box-shadow: 2px 7px 2px rgba(0, 0, 0, 0.3); 
+}
+
+.circle-text{
+			font-size : 24px;
+		}
+
+#circle1_txt
+{
+	margin:63px 0px 0px 0px;
+}
+#circle2_txt
+{
+	margin:78px 0px 0px 8px;
+}
+#circle3_txt
+{
+	margin:78px 0px 0px 8px;
+}
+#circle4_txt
+{
+	margin:50px 0px 0px 0px;
+}
+/**************************************************COLORS**********************************************************/
+
+.font-white{
+	color:#FFFFFF;
+}
+
+.background-white{
+	background:#FFFFFF;
+}
+
+.border-white{
+	border-color:#FFFFFF;
+}
+
+.font-black{
+	color:#000000;
+}
+
+.background-black{
+	background:#000000;
+}
+
+.border-black{
+	border-color:#000000;
+}
+
+.font-blue{
+	color:#9898FF;
+}
+
+.background-blue{
+	background:#9898FF;
+}
+.border-blue
+{
+	border-color:#9898FF
+}
+
+.font-orange{
+	color:#EB550B;
+}
+
+.background-orange{
+	background:#EB550B;
+}
+.border-orange
+{
+	border-color:#EB550B
+}
+
+.font-dark-orange{
+	color:#D93D19;
+}
+
+.background-dark-orange{
+	background:#D93D19;
+}
+.border-dark-orange
+{
+	border-color:#D93D19
+}
+
+.font-yellow{
+	color:#FD6C04;
+}
+
+.background-yellow{
+	background:#FD6C04;
+}
+.border-yellow
+{
+	border-color:#FD6C04
+}
+
+.font-red{
+	color:#DE0313;
+}
+
+.background-red{
+	background:#DE0313;
+}
+.border-red
+{
+	border-color:#DE0313
+}
+
+
+
+
+
+
+
+
+
+.cursor-hand{
+	cursor: pointer;
+}
+
+/**************************************************MARGINS**********************************************************/
+.margin-top-100
+{
+	margin-top:100px;
+}
+
+.margin-top-negative-100
+{
+	margin-top: -100px;
+}
+
+.margin-top-50
+{
+	margin-top:50px;
+}
+
+.margin-top-negative-50
+{
+	margin-top: -50px;
+}
+
+.margin-top-25
+{
+	margin-top:25px;
+}
+
+.margin-top-negative-25
+{
+	margin-top: -25px;
+}
+
+.margin-top-20
+{
+	margin-top:20px;
+}
+
+.margin-top-negative-20
+{
+	margin-top: -20px;
+}
+
+.margin-top-10
+{
+	margin-top:10px;
+}
+
+.margin-top-negative-10
+{
+	margin-top: -10px;
+}
+
+/**************************************************PADDINGS**********************************************************/
+
+.padding-top-50
+{
+	padding-top:50px;
+}
+
+.padding-top-negative-50
+{
+	padding-top: -50px;
+}
+
+.padding-0
+{
+	padding:0px;
+}
+
+/**************************************************HEIGHTS**********************************************************/
+
+.height-100
+{
+min-height:100px;
+}
+
+.height-150
+{
+min-height:150px;
+}
+
+.height-200
+{
+min-height:200px;
+}
+
+.max-height-200
+{
+max-height:200px;
+}
+
+.height-280
+{
+min-height:280px;
+}
+
+.max-height-280
+{
+max-height:280px;
+}
+
+.height-400
+{
+min-height:400px;
+}
+
+.max-height-400
+{
+max-height:400px;
+}
+
+.height-600
+{
+min-height:600px;
+}
+
+/**************************************************Borders**********************************************************/
+
+.border-top-black{
+	border-top: 1px solid #000000;
+}
+
+.border-top-blue{
+	border-top: 1px solid #576fca;
+}
+
+/**************************************************Fonts**********************************************************/
+
+.font-25{
+	font-size:25px;
+}
+
+.font-16{
+	font-size:16px;
+}
+
+
+
+/**************************************************LIBRARY OVERIDES**********************************************************/
+
+.vjs-big-play-button{
+	margin:25% 40%;	
+}
+
+.navbar-height{
+	min-height :150px;
+}
+
+.nav > li > a {
+	color:#FFFFFF;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color: transparent;
+	color:#FD6C04;
+    text-decoration: none;
+}
+
+.navbar-logo-text{
+			margin-top :55px;
+		}
+
+		
+		.mCSB_inside > .mCSB_container {
+			margin-right: 0px;
+		}
+
+/**************************************************MEDIA QUERY**********************************************************/
+
+
+@media only screen and (min-width:1px) and (max-width:767px) {
+		
+		.xs-height-440
+		{
+			min-height:450px;
+		}
+		
+		.xs-margin-0{
+			margin:0px;
+		}
+		
+		.xs-padding-0{
+			padding:0px;
+		}
+		
+		.xs-padding-bottom-50{
+			padding-bottom:50px;
+		}
+		
+		.vjs-big-play-button{
+			margin:50% 25%;	
+		}
+		
+		.navbar-height{
+			min-height :50px;
+		}
+		
+		.navbar-logo-text{
+			margin-top :20px;
+		}
+		
+		.circle
+			 {
+				float:left;
+				margin:20px 0px 0px 0px;
+				width: 155px;
+				height: 155px;
+				-moz-border-radius: 100%;
+				-webkit-border-radius: 100%;
+				border-radius: 100%;
+				/box-shadow: 2px 7px 2px rgba(0, 0, 0, 0.3); 
+			}
+			
+		.circle-text{
+			font-size : 16px;
+		}
+		
+		#circle1_txt
+			{
+				margin:60px 0px 0px 0px;
+			}
+			#circle2_txt
+			{
+				margin:70px 0px 0px 0px;
+			}
+			#circle3_txt
+			{
+				margin:70px 0px 0px 0px;
+			}
+			#circle4_txt
+			{
+				margin:60px 0px 0px 0px;
+			}
+			
+		
+}
+
+
+@media only screen and (min-width:768px) and (max-width:992px) {
+	
+		.sm-height-400
+		{
+		min-height:400px;
+		}
+
+		.sm-max-height-400
+		{
+		max-height:400px;
+		}
+		
+		.vjs-big-play-button{
+			margin:20% 40%;	
+		}
+		
+		.navbar-height{
+			min-height :50px;
+		}
+		
+		.navbar-logo-text{
+			margin-top :20px;
+		}
+		
+		.sm-margin-top-10{
+			margin-top:10px;
+		}
+		
+		.circle
+			 {
+				float:left;
+				margin:20px 0px 0px 50px;
+				width: 155px;
+				height: 155px;
+				-moz-border-radius: 100%;
+				-webkit-border-radius: 100%;
+				border-radius: 100%;
+				/box-shadow: 2px 7px 2px rgba(0, 0, 0, 0.3); 
+			}
+			
+		.circle-text{
+			font-size : 16px;
+		}
+		
+		#circle1_txt
+			{
+				margin:60px 0px 0px 0px;
+			}
+			#circle2_txt
+			{
+				margin:70px 0px 0px 0px;
+			}
+			#circle3_txt
+			{
+				margin:70px 0px 0px 0px;
+			}
+			#circle4_txt
+			{
+				margin:60px 0px 0px 0px;
+			}
+	
+	
+}
+
